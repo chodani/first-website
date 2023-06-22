@@ -1,0 +1,20 @@
+---
+title: "*About*"
+---
+
+## About Me
+### **Daniel Cho**: education Belmont Hill '23, Yale '27
+
+## About the Project
+### First quarto website test
+
+### Goals
+- create clean website
+  + challenge: first time making quarto website
+- learn basics of quarto website
+
+"This is data science"
+\
+~Preceptor
+
+["Kane's Free Data Science Bootcamp"](https://bootcamp.davidkane.info)
